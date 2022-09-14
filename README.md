@@ -1,5 +1,3 @@
-**CPEN 221 / Fall 2020 / PPT #1**
-
 # The Prime Directive
 
 How about shedding our fear of prime numbers? Let us solve some computational problems to that effect. You are already given a method that generates all primes up to an upperbound (`Primes.getPrimes(int upperbound)`).
@@ -93,31 +91,9 @@ So, given a starting number `n`, we need to determine if there is a transformati
 
 ## Logistics
 
-### Duration and Scoring
+Task 4 may be  more work than the other three tasks. If you are taking more time to  complete Tasks 1, 2 and 3, then it may not be a good time investment today to work on Task 4 as well.
 
-**Within 75 minutes**:
-
-* Task 1: 1 point
-* Task 1 + Task 2: 2 points
-* Task 1 + Task 2 + Task 3: 3 points
-* All four tasks: 4 points
-
-**Within 150 minutes**:
-
-* Task 1 + Task 2 + Task 3: 1 point
-
-* All four tasks: 2 points
-
-   There is no further credit if someone completes Tasks 1, 2 and 3 in 75 minutes and does not get to Task 4 or completes Task 4 in 150 minutes. This is a deliberate choice. Don't spend all  night on Task 4, etc.
-
-**Within 24 hours**:
-
-* Task 1 + Task 2 + Task 3: 1 point
-* All four tasks: 1 point
-
-The message is this: Task 4 may be  more work than the other three tasks. If you are taking more time to  complete Tasks 1, 2 and 3, then it may not be a good time investment today to work on Task 4 as well.
-
-There is no partial credit for a  task. You get credit for a task if your implementation passes all tests  we subject your submission to. And there will be more tests than what  you will be provided with. The PPT has been broken up into different  tasks so that you can get partial credit. There will be no further  subdivisions for assigning credit.
+There is no partial credit for a  task. You get credit for a task if your implementation passes all tests  we subject your submission to. And there will be more tests than what  you will be provided with. The PPT has been broken up into different  tasks so that you can get partial credit.
 
 ### Submission Instructions
 
